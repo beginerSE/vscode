@@ -1,0 +1,19 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.lintOnSave": true,
+    "python.formatting.provider": "autopep8",
+    "editor.formatOnSave": true,
+    "python.jediEnabled": true,
+}
+コメントにNOQAをつけると赤線は外せる
+C:\work\sanki-aipc\.vscode\settings.json
+
+
+
+
+shiftを押しながら右クリックでファイルのパスをコピーできる
+Shift＋TABでTABの反対に行を引っ張れる
+CTR＋F5でデバック
+indent_rainbow
